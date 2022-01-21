@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 lambda.py"
+run = "python3 array.py"
